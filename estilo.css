@@ -1,0 +1,25 @@
+li{
+    color: darkblue;
+    font-size: 1em;
+}
+
+.endereco{
+    color: blue;
+    font-size: 3em;
+}
+
+dl{
+    color: red;
+    font-size: 1em;
+}
+            
+dt{
+    color: brown;
+    font-size: 1em;
+}
+            
+h2{
+    color: rebeccapurple;
+    font-size: 2em;
+
+}
